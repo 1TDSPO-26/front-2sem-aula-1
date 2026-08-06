@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "calendary": "^2.0.0",
+    "nodemon": "^3.1.14"
+  },
+  "name": "primeiro-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
